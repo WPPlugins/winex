@@ -2,7 +2,7 @@
 /*
 Plugin Name: WineX
 Plugin URI: http://www.thisrand.com/scripts/winex
-Description: A lightwieght script used to display the contents of your CellarTracker cellar on your website.
+Description: A lightweight script used to display the contents of your CellarTracker cellar on your website.
 Version: 1.1
 Author: Xnuiem
 Author URI: http://www.thisrand.com
@@ -27,7 +27,7 @@ Author URI: http://www.thisrand.com
 */
 
 /**
- * A lightwieght script used to display the contents of your CellarTracker cellar on your website.
+ * A lightweight script used to display the contents of your CellarTracker cellar on your website.
  * @package WordPress
  * @since 2.6
  */
